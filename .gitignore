@@ -22,7 +22,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Node.js/React
-node_modules/
 .env
 build/
 .DS_Store
