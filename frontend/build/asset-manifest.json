@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a68eada.css",
+    "main.js": "/static/js/main.fed7d376.js",
+    "static/js/488.e75445ad.chunk.js": "/static/js/488.e75445ad.chunk.js",
+    "static/media/neongame.jpg": "/static/media/neongame.5845aadaefb30950fbfc.jpg",
+    "index.html": "/index.html",
+    "main.5a68eada.css.map": "/static/css/main.5a68eada.css.map",
+    "main.fed7d376.js.map": "/static/js/main.fed7d376.js.map",
+    "488.e75445ad.chunk.js.map": "/static/js/488.e75445ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a68eada.css",
+    "static/js/main.fed7d376.js"
+  ]
+}
